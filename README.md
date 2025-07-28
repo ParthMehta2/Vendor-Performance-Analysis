@@ -18,7 +18,7 @@ Effective inventory and sales management are critical for optimizing profitabili
 By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks, and enhance overall operational efficiency.
 
 
-"Vendor_sales_summary.csv is made by carefully selecting data from multiple csv files and putting them all together in one file.(see in file EDA_with_sql)"
+PS: "Vendor_sales_summary.csv is made by carefully selecting data from multiple csv files and putting them all together in one file.(see in file EDA_with_sql)"
 
 
 
